@@ -270,3 +270,4 @@
 - [2026-05-14 21:20:15] style: update layout paddings
 - [2026-05-14 21:20:15] perf: optimize render cycle
 - [2026-05-14 21:20:16] feat: add robust error handling
+- [2026-05-14 21:20:16] docs: update component documentation
