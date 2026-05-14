@@ -686,3 +686,4 @@
 - [2026-05-14 21:23:07] feat: add robust error handling
 - [2026-05-14 21:23:07] feat: implement core logic
 - [2026-05-14 21:23:08] fix: resolve edge case bug
+- [2026-05-14 21:23:08] docs: update component documentation
