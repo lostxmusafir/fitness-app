@@ -124,3 +124,4 @@
 - [2026-05-14 21:19:14] docs: update component documentation
 - [2026-05-14 21:19:15] chore: clean up console logs
 - [2026-05-14 21:19:15] style: update layout paddings
+- [2026-05-14 21:19:16] docs: update component documentation
