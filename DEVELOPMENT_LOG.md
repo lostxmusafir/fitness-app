@@ -1212,3 +1212,4 @@
 - [2026-05-14 21:26:40] feat: implement core logic
 - [2026-05-14 21:26:40] feat: implement core logic
 - [2026-05-14 21:26:41] style: update layout paddings
+- [2026-05-14 21:26:41] docs: update component documentation
