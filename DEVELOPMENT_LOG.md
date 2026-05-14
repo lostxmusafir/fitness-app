@@ -255,3 +255,4 @@
 - [2026-05-14 21:20:09] fix: correct typo in variable name
 - [2026-05-14 21:20:09] style: update layout paddings
 - [2026-05-14 21:20:10] style: update layout paddings
+- [2026-05-14 21:20:10] chore: clean up console logs
