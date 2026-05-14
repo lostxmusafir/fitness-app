@@ -651,3 +651,4 @@
 - [2026-05-14 21:22:53] perf: optimize render cycle
 - [2026-05-14 21:22:53] perf: optimize render cycle
 - [2026-05-14 21:22:54] chore: clean up console logs
+- [2026-05-14 21:22:54] feat: add robust error handling
