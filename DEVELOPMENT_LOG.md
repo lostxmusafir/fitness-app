@@ -873,3 +873,4 @@
 - [2026-05-14 21:24:21] fix: resolve edge case bug
 - [2026-05-14 21:24:22] feat: implement core logic
 - [2026-05-14 21:24:22] chore: clean up console logs
+- [2026-05-14 21:24:22] docs: update component documentation
