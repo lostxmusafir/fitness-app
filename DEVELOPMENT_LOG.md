@@ -1360,3 +1360,4 @@
 - [2026-05-14 21:27:40] fix: resolve edge case bug
 - [2026-05-14 21:27:40] perf: optimize render cycle
 - [2026-05-14 21:27:40] perf: optimize render cycle
+- [2026-05-14 21:27:41] docs: update component documentation
