@@ -1543,3 +1543,4 @@
 - [2026-05-14 21:28:55] test: add unit test coverage
 - [2026-05-14 21:28:55] test: add unit test coverage
 - [2026-05-14 21:28:56] perf: optimize render cycle
+- [2026-05-14 21:28:56] docs: update component documentation
