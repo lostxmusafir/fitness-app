@@ -804,3 +804,4 @@
 - [2026-05-14 21:23:54] docs: update component documentation
 - [2026-05-14 21:23:54] fix: correct typo in variable name
 - [2026-05-14 21:23:55] style: update layout paddings
+- [2026-05-14 21:23:55] fix: correct typo in variable name
