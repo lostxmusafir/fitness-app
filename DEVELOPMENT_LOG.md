@@ -1140,3 +1140,4 @@
 - [2026-05-14 21:26:12] perf: optimize render cycle
 - [2026-05-14 21:26:12] chore: clean up console logs
 - [2026-05-14 21:26:12] style: update layout paddings
+- [2026-05-14 21:26:13] feat: add robust error handling
