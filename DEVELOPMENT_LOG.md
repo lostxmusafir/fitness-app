@@ -656,3 +656,4 @@
 - [2026-05-14 21:22:55] chore: clean up console logs
 - [2026-05-14 21:22:55] feat: implement core logic
 - [2026-05-14 21:22:56] style: update layout paddings
+- [2026-05-14 21:22:56] feat: add robust error handling
