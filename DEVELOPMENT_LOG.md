@@ -127,3 +127,4 @@
 - [2026-05-14 21:19:16] docs: update component documentation
 - [2026-05-14 21:19:16] style: update layout paddings
 - [2026-05-14 21:19:16] feat: implement core logic
+- [2026-05-14 21:19:17] fix: resolve edge case bug
