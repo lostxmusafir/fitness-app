@@ -497,3 +497,4 @@
 - [2026-05-14 21:21:49] fix: correct typo in variable name
 - [2026-05-14 21:21:50] feat: add robust error handling
 - [2026-05-14 21:21:50] style: update layout paddings
+- [2026-05-14 21:21:50] docs: update component documentation
