@@ -139,3 +139,4 @@
 - [2026-05-14 21:19:20] perf: optimize render cycle
 - [2026-05-14 21:19:21] style: update layout paddings
 - [2026-05-14 21:19:21] perf: optimize render cycle
+- [2026-05-14 21:19:21] fix: resolve edge case bug
