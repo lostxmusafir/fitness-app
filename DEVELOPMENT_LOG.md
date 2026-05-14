@@ -392,3 +392,4 @@
 - [2026-05-14 21:21:06] fix: resolve edge case bug
 - [2026-05-14 21:21:06] style: update layout paddings
 - [2026-05-14 21:21:07] chore: clean up console logs
+- [2026-05-14 21:21:07] fix: correct typo in variable name
