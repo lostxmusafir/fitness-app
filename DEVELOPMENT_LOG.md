@@ -587,3 +587,4 @@
 - [2026-05-14 21:22:26] feat: implement core logic
 - [2026-05-14 21:22:27] fix: correct typo in variable name
 - [2026-05-14 21:22:27] fix: correct typo in variable name
+- [2026-05-14 21:22:28] docs: update component documentation
