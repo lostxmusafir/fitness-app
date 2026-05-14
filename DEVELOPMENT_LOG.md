@@ -388,3 +388,4 @@
 - [2026-05-14 21:21:04] fix: correct typo in variable name
 - [2026-05-14 21:21:05] feat: add robust error handling
 - [2026-05-14 21:21:05] refactor: optimize state management
+- [2026-05-14 21:21:05] docs: update component documentation
