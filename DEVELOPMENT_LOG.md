@@ -1437,3 +1437,4 @@
 - [2026-05-14 21:28:11] fix: correct typo in variable name
 - [2026-05-14 21:28:11] chore: clean up console logs
 - [2026-05-14 21:28:12] docs: update component documentation
+- [2026-05-14 21:28:12] fix: resolve edge case bug
