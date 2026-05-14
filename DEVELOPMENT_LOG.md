@@ -340,3 +340,4 @@
 - [2026-05-14 21:20:45] feat: implement core logic
 - [2026-05-14 21:20:45] style: update layout paddings
 - [2026-05-14 21:20:46] docs: update component documentation
+- [2026-05-14 21:20:46] chore: clean up console logs
