@@ -490,3 +490,4 @@
 - [2026-05-14 21:21:46] feat: implement core logic
 - [2026-05-14 21:21:47] chore: clean up console logs
 - [2026-05-14 21:21:47] test: add unit test coverage
+- [2026-05-14 21:21:47] docs: update component documentation
