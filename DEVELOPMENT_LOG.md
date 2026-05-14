@@ -3,3 +3,4 @@
 - [2026-05-14 21:18:27] feat: implement core logic
 - [2026-05-14 21:18:27] feat: implement core logic
 - [2026-05-14 21:18:28] test: add unit test coverage
+- [2026-05-14 21:18:28] docs: update component documentation
