@@ -353,3 +353,4 @@
 - [2026-05-14 21:20:50] style: update layout paddings
 - [2026-05-14 21:20:51] fix: correct typo in variable name
 - [2026-05-14 21:20:51] test: add unit test coverage
+- [2026-05-14 21:20:51] feat: implement core logic
