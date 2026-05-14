@@ -327,3 +327,4 @@
 - [2026-05-14 21:20:40] feat: implement core logic
 - [2026-05-14 21:20:40] chore: clean up console logs
 - [2026-05-14 21:20:40] feat: implement core logic
+- [2026-05-14 21:20:41] docs: update component documentation
