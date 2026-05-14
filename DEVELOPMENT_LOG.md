@@ -186,3 +186,4 @@
 - [2026-05-14 21:19:41] docs: update component documentation
 - [2026-05-14 21:19:42] docs: update component documentation
 - [2026-05-14 21:19:42] docs: update component documentation
+- [2026-05-14 21:19:43] fix: resolve edge case bug
