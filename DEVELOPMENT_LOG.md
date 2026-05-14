@@ -5,3 +5,4 @@
 - [2026-05-14 21:18:28] test: add unit test coverage
 - [2026-05-14 21:18:28] docs: update component documentation
 - [2026-05-14 21:18:28] style: update layout paddings
+- [2026-05-14 21:18:29] chore: clean up console logs
