@@ -1217,3 +1217,4 @@
 - [2026-05-14 21:26:42] perf: optimize render cycle
 - [2026-05-14 21:26:42] feat: implement core logic
 - [2026-05-14 21:26:43] test: add unit test coverage
+- [2026-05-14 21:26:43] docs: update component documentation
