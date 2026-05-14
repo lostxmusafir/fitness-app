@@ -1101,3 +1101,4 @@
 - [2026-05-14 21:25:55] test: add unit test coverage
 - [2026-05-14 21:25:56] fix: correct typo in variable name
 - [2026-05-14 21:25:56] fix: correct typo in variable name
+- [2026-05-14 21:25:57] fix: resolve edge case bug
