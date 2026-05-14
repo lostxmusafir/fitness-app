@@ -414,3 +414,4 @@
 - [2026-05-14 21:21:15] style: update layout paddings
 - [2026-05-14 21:21:15] style: update layout paddings
 - [2026-05-14 21:21:16] docs: update component documentation
+- [2026-05-14 21:21:16] refactor: optimize state management
