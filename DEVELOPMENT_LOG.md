@@ -713,3 +713,4 @@
 - [2026-05-14 21:23:18] feat: add robust error handling
 - [2026-05-14 21:23:18] feat: add robust error handling
 - [2026-05-14 21:23:18] refactor: optimize state management
+- [2026-05-14 21:23:19] docs: update component documentation
