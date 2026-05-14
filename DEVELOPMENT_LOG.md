@@ -1491,3 +1491,4 @@
 - [2026-05-14 21:28:34] refactor: optimize state management
 - [2026-05-14 21:28:35] chore: clean up console logs
 - [2026-05-14 21:28:35] fix: correct typo in variable name
+- [2026-05-14 21:28:36] feat: add robust error handling
