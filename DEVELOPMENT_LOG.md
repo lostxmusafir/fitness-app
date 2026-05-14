@@ -879,3 +879,4 @@
 - [2026-05-14 21:24:24] perf: optimize render cycle
 - [2026-05-14 21:24:24] chore: clean up console logs
 - [2026-05-14 21:24:25] test: add unit test coverage
+- [2026-05-14 21:24:25] docs: update component documentation
