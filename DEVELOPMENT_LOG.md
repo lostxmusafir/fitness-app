@@ -386,3 +386,4 @@
 - [2026-05-14 21:21:04] feat: implement core logic
 - [2026-05-14 21:21:04] fix: correct typo in variable name
 - [2026-05-14 21:21:04] fix: correct typo in variable name
+- [2026-05-14 21:21:05] feat: add robust error handling
