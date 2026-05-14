@@ -1531,3 +1531,4 @@
 - [2026-05-14 21:28:50] chore: clean up console logs
 - [2026-05-14 21:28:51] fix: resolve edge case bug
 - [2026-05-14 21:28:51] docs: update component documentation
+- [2026-05-14 21:28:51] docs: update component documentation
