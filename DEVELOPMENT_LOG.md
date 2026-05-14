@@ -1363,3 +1363,4 @@
 - [2026-05-14 21:27:41] docs: update component documentation
 - [2026-05-14 21:27:41] fix: correct typo in variable name
 - [2026-05-14 21:27:41] style: update layout paddings
+- [2026-05-14 21:27:42] docs: update component documentation
