@@ -1,0 +1,1 @@
+- [2026-05-14 21:18:26] fix: correct typo in variable name
