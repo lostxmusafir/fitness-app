@@ -969,3 +969,4 @@
 - [2026-05-14 21:25:01] feat: add robust error handling
 - [2026-05-14 21:25:01] feat: implement core logic
 - [2026-05-14 21:25:02] feat: implement core logic
+- [2026-05-14 21:25:02] docs: update component documentation
