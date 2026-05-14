@@ -109,3 +109,4 @@
 - [2026-05-14 21:19:08] docs: update component documentation
 - [2026-05-14 21:19:09] style: update layout paddings
 - [2026-05-14 21:19:09] feat: add robust error handling
+- [2026-05-14 21:19:09] chore: clean up console logs
