@@ -559,3 +559,4 @@
 - [2026-05-14 21:22:14] fix: resolve edge case bug
 - [2026-05-14 21:22:15] style: update layout paddings
 - [2026-05-14 21:22:15] fix: resolve edge case bug
+- [2026-05-14 21:22:16] docs: update component documentation
