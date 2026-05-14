@@ -39,3 +39,4 @@
 - [2026-05-14 21:18:41] style: update layout paddings
 - [2026-05-14 21:18:41] feat: implement core logic
 - [2026-05-14 21:18:42] docs: update component documentation
+- [2026-05-14 21:18:42] feat: add robust error handling
