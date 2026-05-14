@@ -951,3 +951,4 @@
 - [2026-05-14 21:24:53] feat: add robust error handling
 - [2026-05-14 21:24:53] feat: add robust error handling
 - [2026-05-14 21:24:54] feat: add robust error handling
+- [2026-05-14 21:24:54] chore: clean up console logs
