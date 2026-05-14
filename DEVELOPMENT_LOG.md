@@ -1255,3 +1255,4 @@
 - [2026-05-14 21:26:57] chore: clean up console logs
 - [2026-05-14 21:26:57] fix: correct typo in variable name
 - [2026-05-14 21:26:58] perf: optimize render cycle
+- [2026-05-14 21:26:58] docs: update component documentation
