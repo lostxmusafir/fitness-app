@@ -14,3 +14,4 @@
 - [2026-05-14 21:18:31] fix: resolve edge case bug
 - [2026-05-14 21:18:31] feat: implement core logic
 - [2026-05-14 21:18:32] style: update layout paddings
+- [2026-05-14 21:18:32] feat: add robust error handling
