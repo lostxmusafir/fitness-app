@@ -413,3 +413,4 @@
 - [2026-05-14 21:21:14] perf: optimize render cycle
 - [2026-05-14 21:21:15] style: update layout paddings
 - [2026-05-14 21:21:15] style: update layout paddings
+- [2026-05-14 21:21:16] docs: update component documentation
