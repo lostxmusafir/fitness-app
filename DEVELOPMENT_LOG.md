@@ -787,3 +787,4 @@
 - [2026-05-14 21:23:47] feat: implement core logic
 - [2026-05-14 21:23:47] feat: implement core logic
 - [2026-05-14 21:23:47] feat: implement core logic
+- [2026-05-14 21:23:48] feat: add robust error handling
