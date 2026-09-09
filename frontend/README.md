@@ -9,7 +9,7 @@ https://www.behance.net/gallery/132549709/Selfit-Fitness-app?tracking_source=for
 
 ## See our tutorial posts:
 
-Part 1 - [How to Make a Fitness App With Flutter: A Tutorial by Perpetio. Part I](https://perpet.io/blog/how-to-build-a-clubhouse-clone-app-with-flutter-a-tutorial-by-perpetio-part-1/)
+Part 1 - [How to Make a Fitness App With Flutter: A Tutorial by Perpetio. Part I](https://perpet.io/blog/how-to-make-a-fitness-app-with-flutter-a-tutorial-by-perpetio-part-1/)
 
 Part 2 - [How to Make a Fitness App With Flutter: A Tutorial by Perpetio. Part II](https://perpet.io/blog/how-to-make-a-fitness-app-with-flutter-a-tutorial-by-perpetio-part-ii/)
 
